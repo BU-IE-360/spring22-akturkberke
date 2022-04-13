@@ -3,10 +3,7 @@
 
 
 ### Homework 1
-[link](/file/IE_360_HW1.html)
+Here is my homework 1. (HTML file) [link](/file/IE_360_HW1.html)
 ### Homework 2
 ### Homework 3
-
-[link](https://moodle.boun.edu.tr/login/)
-
 
