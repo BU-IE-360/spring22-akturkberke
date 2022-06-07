@@ -10,3 +10,6 @@ Here is the R code for HW2. [link](/IE_360_HW2.r)
 Here is the csv file. [link](/HW2-Data/IE360_Spring22_HW2_data.csv)
 ### Homework 3
 
+### Project
+Here is my project. (HTML file) [link](/project/Project_Report.html)
+
